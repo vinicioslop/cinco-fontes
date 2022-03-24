@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Major+Mono+Display&family=Merriweather&family=Monoton&family=Ubuntu&display=swap');
+
+body {
+    background-color: chocolate;
+    font-size: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-size: 3em;
+}
+
+h2 {
+    color: darkturquoise;
+    font-size: 1.5em;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+
+    color: lightcyan;
+    font-size: 1em;
+}
+
+.merriweather {
+    font-family: 'Merriweather', serif;
+}
+
+.indie-flower {
+    font-family: 'Indie Flower', cursive;
+}
+
+.ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.monoton {
+    font-family: 'Monoton', cursive;
+}
+
+.major-mono-display {
+    font-family: 'Major Mono Display', monospace;
+}
